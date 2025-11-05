@@ -1,78 +1,85 @@
-<h1 align="center">Hi 👋, I'm Harsh Gupta</h1>
-<h3 align="center">🚀 A Passionate Full Stack & Cloud Developer | Tech Explorer | Open Source Contributor</h3>
+<h1 align="center">Hi, I'm Harsh Gupta 👋</h1>
+<h3 align="center">Full Stack & Cloud Developer | Building Scalable Web Applications | Open Source Contributor</h3>
 
-<!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2CB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Next.js+%7C+TailwindCSS+%7C+TypeScript;Express+%7C+MongoDB+%7C+Prisma;Cloudflare+%7C+API+Integration;Always+Learning+%26+Building+🧠" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1000&color=0CF574&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cloud+%26+API+Engineer;Next.js+%7C+TypeScript+%7C+Express+%7C+MongoDB;Passionate+about+Clean+Architecture+%26+Performance" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🌐 Connect with Me  
-<p align="left">
-  <a href="https://linkedin.com/in/your-linkedin-id" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:your.email@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://x.com/yourhandle" target="_blank"><img src="https://img.shields.io/badge/Twitter-%23000000.svg?logo=X&logoColor=white" alt="X (Twitter)" /></a>
-  <a href="https://yourportfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" alt="Portfolio" /></a>
+### 🌍 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/your-linkedin-id" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://x.com/yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/X_(Twitter)-000000?logo=x&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://yourportfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
 ---
 
-### 🧠 Tech Stack  
+### 💻 Tech Expertise
 **Frontend:**  
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-0EA5E9?logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 
 **Backend:**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)
-![JWT](https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000?logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Prisma ORM](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)
 
-**Cloud & DevOps:**  
-![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?logo=cloudflare&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
-
----
-
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshGupta&show_icons=true&theme=radical" alt="Harsh's GitHub stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshGupta&theme=radical" alt="GitHub Streak" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshGupta&layout=compact&theme=radical" alt="Top Languages" width="49%" />
-</p>
+**Cloud & Tools:**  
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 
 ---
 
-### 🏆 GitHub Trophies  
+### 📈 GitHub Insights
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HarshGupta&theme=radical&no-frame=true&no-bg=true&margin-w=10" alt="trophy" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=HarshGupta&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=HarshGupta&theme=github-dark-blue&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshGupta&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
 
-### ✍️ Developer Quote  
+### 🏆 Achievements
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev quote" />
+  <img src="https://github-profile-trophy.vercel.app/?username=HarshGupta&theme=onedark&no-frame=true&row=1&column=6" alt="Trophies"/>
 </p>
 
 ---
 
-### 👀 Profile Views  
+### ✍️ Quote I Believe In
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HarshGupta&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" alt="Developer Quote" />
 </p>
 
 ---
 
-⭐️ *“Building scalable web apps, exploring cloud, and constantly learning.”*
+### 👀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HarshGupta&label=Profile%20Views&color=0A66C2&style=flat-square" alt="Profile Views" />
+</p>
+
+---
+
+> “Crafting scalable systems, simplifying complex problems, and building products that matter.”  
+> — *Harsh Gupta*
+
