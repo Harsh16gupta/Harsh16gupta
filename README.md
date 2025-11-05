@@ -9,18 +9,19 @@
 
 ### 🌍 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin-id" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://x.com/yourhandle" target="_blank">
+  <a href="https://x.com/Harsh16Gupta" target="_blank">
     <img src="https://img.shields.io/badge/X_(Twitter)-000000?logo=x&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" alt="Portfolio"/>
+  <a href="https://www.linkedin.com/in/harsh-gupta---/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="mailto:harsh16official@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  
+  <!-- <a href="https://yourportfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a> -->
 </p>
 
 ---
@@ -59,23 +60,9 @@
 
 ---
 
-### 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HarshGupta&theme=onedark&no-frame=true&row=1&column=6" alt="Trophies"/>
-</p>
-
----
-
 ### ✍️ Quote I Believe In
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" alt="Developer Quote" />
-</p>
-
----
-
-### 👀 Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HarshGupta&label=Profile%20Views&color=0A66C2&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
