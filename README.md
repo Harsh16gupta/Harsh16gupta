@@ -50,13 +50,14 @@
 
 ### 📈 GitHub Insights
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=HarshGupta&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=HarshGupta&theme=github-dark-blue&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Harsh16gupta&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh16gupta&theme=github-dark-blue&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshGupta&layout=compact&theme=github_dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh16gupta&layout=compact&theme=github_dark&hide_border=true" />
 </p>
+
 
 ---
 
