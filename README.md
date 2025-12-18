@@ -5,27 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1000&color=0CF574&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cloud+%26+API+Engineer;Next.js+%7C+TypeScript+%7C+Express+%7C+MongoDB;Passionate+about+Clean+Architecture+%26+Performance" alt="Typing SVG" />
 </p>
 
----
-
-### 🌍 Connect with Me
-<p align="center">
-  <a href="https://x.com/Harsh16Gupta" target="_blank">
-    <img src="https://img.shields.io/badge/X_(Twitter)-000000?logo=x&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://www.linkedin.com/in/harsh-gupta---/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:harsh16official@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  
-  <!-- <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a> -->
-</p>
-
----
-
 ### 💻 Tech Expertise
 **Frontend:**  
 ![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js)
@@ -46,35 +25,6 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 
----
-
-
-### 📊 GitHub Overview
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh16gupta&theme=github-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harsh16gupta&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harsh16gupta&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Harsh16gupta&theme=github_dark" />
-</p>
-
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh16gupta&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
-
----
-
-### ✍️ Quote I Believe In
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" alt="Developer Quote" />
-</p>
 
 ---
 
