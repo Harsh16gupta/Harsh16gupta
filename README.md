@@ -13,7 +13,6 @@
 - 💻 I enjoy coding with my playlist on repeat  
 - 🤖 Currently learning **AI & ML**  
 - 🚀 Open Source Contributor — **20+ PRs merged in AsyncAPI (mainly in Generator)**  
-- 🎬 Love watching movies (not getting much time these days 😅)
 
 ---
 
