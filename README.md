@@ -1,42 +1,38 @@
-<h1 align="center">Hey 👋, I'm Harsh Gupta</h1>
-<h3 align="center">Full Stack & Cloud Developer | Open Source Contributor | Learning AI/ML</h3>
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║                              HARSH GUPTA                                 ║
+║                Full Stack & Cloud Developer                              ║
+║             Open Source Contributor | Learning AI/ML                     ║
+╚══════════════════════════════════════════════════════════════════════════╝
 
-<p align="center">
-  Passionate open-source developer and always excited about building scalable web applications 🚀
-</p>
+ABOUT
+-----
+  • Music enthusiast – coding sessions are powered by a carefully curated
+    playlist.
+  • Currently expanding knowledge in Artificial Intelligence & Machine
+    Learning.
+  • Open Source contributor with 20+ merged pull requests in AsyncAPI,
+    primarily focused on the Generator component.
 
----
+OPEN SOURCE
+-----------
+  • Active contributor at AsyncAPI.
+  • Focus area: Generator — the template-based code generation tool for AsyncAPI specifications.
+  • Contributed improvements to templates, generator tooling, and related components.
+  • Worked on bug fixes and enhancements to improve the developer workflow.
+  • 20+ pull requests merged.
 
-### 👨‍💻 About Me
+CONNECT
+-------
+  • X (Twitter): @Harsh16Gupta
 
-- 🎵 I love songs — they’re life  
-- 💻 I enjoy coding with my playlist on repeat  
-- 🤖 Currently learning **AI & ML**  
-- 🚀 Open Source Contributor — **20+ PRs merged in AsyncAPI (mainly in Generator)**  
+CURRENT FOCUS
+-------------
+  • Building scalable full‑stack applications.
+  • Deepening expertise in AI/ML.
+  • Continuing open source contributions to AsyncAPI and Joplin.
 
----
-
-### 🌍 Open Source
-
-👯 Contributor at **AsyncAPI**  
-⭐ Focus area: **Generator**
-
----
-
-### 📫 How to reach me
-
-- X: *([Harsh16Gupta](https://x.com/Harsh16Gupta))*
-  
----
-
-### 📚 Currently Working On
-
-- Building scalable full-stack apps  
-- Deep diving into AI/ML  
-- Contributing to open source  
-
----
-
-<p align="center">
-  ⚡ Fun fact: Best code is written when the playlist hits just right 🎧
-</p>
+NOTE
+----
+  The best code emerges when the playlist syncs perfectly with the flow.
+```
