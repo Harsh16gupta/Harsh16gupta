@@ -1,9 +1,9 @@
 ```
-╔══════════════════════════════════════════════════════════════════════════╗
-║                              HARSH GUPTA                                 ║
-║                Full Stack & Cloud Developer                              ║
-║             Open Source Contributor | Learning AI/ML                     ║
-╚══════════════════════════════════════════════════════════════════════════╝
+  ╔══════════════════════════════════════════════════════════════════════════╗
+  ║                              HARSH GUPTA                                 ║
+  ║                          Full Stack Developer                            ║
+  ║                 Open Source Contributor | Learning AI/ML                 ║
+  ╚══════════════════════════════════════════════════════════════════════════╝
 
 ABOUT
 -----
@@ -17,7 +17,7 @@ ABOUT
 OPEN SOURCE
 -----------
   • Active contributor at AsyncAPI.
-  • Focus area: Generator — the template-based code generation tool for AsyncAPI specifications.
+  • Focus area: Generator — the template-based code generation tool.
   • Contributed improvements to templates, generator tooling, and related components.
   • Worked on bug fixes and enhancements to improve the developer workflow.
   • 20+ pull requests merged.
