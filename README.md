@@ -31,8 +31,3 @@ CURRENT FOCUS
   • Building scalable full‑stack applications.
   • Deepening expertise in AI/ML.
   • Continuing open source contributions to AsyncAPI and Joplin.
-
-NOTE
-----
-  The best code emerges when the playlist syncs perfectly with the flow.
-```
