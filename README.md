@@ -1,26 +1,15 @@
 ```
-  ╔══════════════════════════════════════════════════════════════════════════╗
-  ║                              HARSH GUPTA                                 ║
-  ║                          Full Stack Developer                            ║
-  ║                 Open Source Contributor | Learning AI/ML                 ║
-  ╚══════════════════════════════════════════════════════════════════════════╝
+  ╔════════════════════════════════════════════════════════════════════════════════╗
+  ║                                    HARSH GUPTA                                 ║
+  ║                                Full Stack Developer                            ║
+  ║                       Open Source Contributor | Learning AI/ML                 ║
+  ╚════════════════════════════════════════════════════════════════════════════════╝
 
 ABOUT
 -----
-  • Music enthusiast – coding sessions are powered by a carefully curated
-    playlist.
-  • Currently expanding knowledge in Artificial Intelligence & Machine
-    Learning.
-  • Open Source contributor with 20+ merged pull requests in AsyncAPI,
-    primarily focused on the Generator component.
-
-OPEN SOURCE
------------
-  • Active contributor at AsyncAPI.
-  • Focus area: Generator — the template-based code generation tool.
-  • Contributed improvements to templates, generator tooling, and related components.
-  • Worked on bug fixes and enhancements to improve the developer workflow.
-  • 20+ pull requests merged.
+  • Music enthusiast – coding sessions are powered by a carefully curated playlist.
+  • Currently expanding knowledge in Artificial Intelligence & Machine Learning.
+  • Open Source contributor with 20+ merged pull requests in AsyncAPI, primarily focused on the Generator component.
 
 CONNECT
 -------
