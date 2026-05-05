@@ -10,6 +10,4 @@ ABOUT
   • Music enthusiast – coding sessions are powered by a carefully curated playlist.
   • Currently expanding knowledge in Artificial Intelligence & Machine Learning.
 
-CONNECT
--------
-  • X (Twitter): @Harsh16Gupta
+Feel free to connect to discuss any idea.
