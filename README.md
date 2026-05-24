@@ -2,7 +2,7 @@
   ╔════════════════════════════════════════════════════════════════════════════════════════════════╗
   ║                                          HARSH GUPTA                                           ║
   ║                                      Full Stack Developer                                      ║
-  ║                             Open Source Contributor | Learning AI/ML                           ║
+  ║                   GSoC-26 @joplin | Open Source Contributor | Learning AI/ML                   ║
   ╚════════════════════════════════════════════════════════════════════════════════════════════════╝
 
 ABOUT
