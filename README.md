@@ -1,13 +1,25 @@
-```
-  ╔════════════════════════════════════════════════════════════════════════════════════════════════╗
-  ║                                          HARSH GUPTA                                           ║
-  ║                                      Full Stack Developer                                      ║
-  ║                   GSoC-26 @joplin | Open Source Contributor | Learning AI/ML                   ║
-  ╚════════════════════════════════════════════════════════════════════════════════════════════════╝
+<table>
+<tr>
+<td>
 
-ABOUT
------
-  • Music enthusiast – coding sessions are powered by a carefully curated playlist.
-  • Currently expanding knowledge in Artificial Intelligence & Machine Learning.
+**AI Engineer.** Building thoughtful, production-grade applications. &nbsp;·&nbsp; [Portfolio](#) · [LinkedIn](#) · [X](#)
 
-Feel free to connect with me on my socials, always open to chat, collaborate, or just geek out over cool tech stuff.
+</td>
+</tr>
+</table>
+
+I build **AI-native applications, agentic workflows, and full-stack products.**
+
+▸ **GSoC'26** AI Intern @ [Joplin](#) · May 2026 - Present
+▸ Open Source Contributor · [Joplin](#), [AsyncAPI](#) & more · Dec 2025 - Jun 2026
+▸ Full Stack Engineer Intern @ **GRS Worker** · Sep 2025 - Nov 2025 · Delhi, India
+
+**Tech Stack** ⚙️
+
+`Python` `TypeScript` `JavaScript` `React` `Next.js` `Node.js` `Express` `FastAPI`
+`PostgreSQL` `Prisma` `Docker` `Kubernetes` `AWS` `Git` `C`
+
+**Applied AI & Agents**
+
+`LangChain` `LangGraph` `RAG Pipelines` `Agentic Workflows` `Fine-Tuning & LoRA`
+`LLM Evaluation (Ragas)` `Vector Search / pgvector` `DSPy` `Claude` `OpenAI` `Gemini` `LLaMA` `Hugging Face` `PyTorch`
