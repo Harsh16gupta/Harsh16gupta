@@ -1,25 +1,9 @@
-<table>
-<tr>
-<td>
+hey, i'm harsh.
 
-**AI Engineer.** Building thoughtful, production-grade applications. &nbsp;·&nbsp; [Portfolio](#) · [LinkedIn](#) · [X](#)
+ai engineer, full-stack builder.
 
-</td>
-</tr>
-</table>
+i build agentic systems and ship production-grade applications.
 
-I build **AI-native applications, agentic workflows, and full-stack products.**
+currently GSoC'26 @Joplin, contributing to open source along the way.
 
-▸ **GSoC'26** AI Intern @ [Joplin](#) · May 2026 - Present
-▸ Open Source Contributor · [Joplin](#), [AsyncAPI](#) & more · Dec 2025 - Jun 2026
-▸ Full Stack Engineer Intern @ **GRS Worker** · Sep 2025 - Nov 2025 · Delhi, India
-
-**Tech Stack** ⚙️
-
-`Python` `TypeScript` `JavaScript` `React` `Next.js` `Node.js` `Express` `FastAPI`
-`PostgreSQL` `Prisma` `Docker` `Kubernetes` `AWS` `Git` `C`
-
-**Applied AI & Agents**
-
-`LangChain` `LangGraph` `RAG Pipelines` `Agentic Workflows` `Fine-Tuning & LoRA`
-`LLM Evaluation (Ragas)` `Vector Search / pgvector` `DSPy` `Claude` `OpenAI` `Gemini` `LLaMA` `Hugging Face` `PyTorch`
+reach me: [twitter](https://x.com/Harsh16Gupta) · [linkedin](https://www.linkedin.com/in/harsh-gupta---/) · [email](mailto:harsh16official@gmail.com)
