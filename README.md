@@ -1,4 +1,4 @@
-hey, i'm harsh.
+hey, i'm harsh
 
 ai engineer, full-stack builder.
 
