@@ -2,9 +2,7 @@
 
 ### ai engineer · full-stack builder
 
-<!-- Add your banner images here once uploaded to `assets/`:
-<img src="./assets/spiderman.jpg" width="100%" />
--->
+<img src="./assets/spiderman.jpg" width="100%" alt="Spider-Man" />
 
 i build **agentic systems and production-grade applications**.
 
@@ -19,12 +17,12 @@ i love building software, experimenting with AI, and turning ideas into things t
 - 🌎 GSoC'26 @ Joplin
 - 🚀 always building something
 
-<!-- Optional second banner:
-<img src="./assets/f1.jpg" width="100%" />
--->
+<img src="./assets/f1.jpg" width="100%" alt="Formula 1 Technical Illustration" />
 
 ### find me
 
-[X](https://x.com/Harsh16Gupta) · [linkedin](https://www.linkedin.com/in/harsh-gupta---/) · [email](mailto:harsh16official@gmail.com) · [portfolio](https://harsh16.me/)
+[GitHub](https://github.com/Harsh16gupta) · [X](https://x.com/Harsh16Gupta) · [LinkedIn](https://www.linkedin.com/in/harsh-gupta---/) · [email](mailto:harsh16official@gmail.com) · [portfolio](https://harsh16.me/)
+
+<br />
 
 <img src="https://komarev.com/ghpvc/?username=Harsh16gupta&style=flat&label=Profile+Views" alt="Profile Views" />
