@@ -1,17 +1,10 @@
-<img src="./assets/celestial.jpg" width="400%" height="50%" alt="Celestial Horizon" />
+<img src="./assets/celestial.jpg" width="400%" height="30%" alt="Celestial Horizon" />
 
-i build **agentic systems and production-grade applications**.
+hey 👋, i'm harsh
 
 currently **GSoC'26 @ Joplin**, contributing to open source along the way.
 
 i love building software, experimenting with AI, and turning ideas into things that actually work :)
-
-### currently
-
-- 🤖 AI / LLMs / Agentic Systems
-- 💻 Full-stack development
-- 🌎 GSoC'26 @ Joplin
-- 🚀 always building something
 
 ### find me
 
