@@ -10,6 +10,8 @@ currently **GSoC'26 @ Joplin**, contributing to open source along the way.
 
 i love building software, experimenting with AI, and turning ideas into things that actually work :)
 
+<img src="./assets/blackhole.jpg" width="100%" alt="Gargantua" />
+
 ### currently
 
 - 🤖 AI / LLMs / Agentic Systems
@@ -19,9 +21,17 @@ i love building software, experimenting with AI, and turning ideas into things t
 
 <img src="./assets/f1.jpg" width="100%" alt="Formula 1 Technical Illustration" />
 
+<img src="./assets/ferrari-blueprint.jpg" width="100%" alt="Ferrari F1 Technical Blueprint" />
+
+<img src="./assets/crimson-car.jpg" width="100%" alt="Crimson Drive" />
+
 ### find me
 
 [GitHub](https://github.com/Harsh16gupta) · [X](https://x.com/Harsh16Gupta) · [LinkedIn](https://www.linkedin.com/in/harsh-gupta---/) · [email](mailto:harsh16official@gmail.com) · [portfolio](https://harsh16.me/)
+
+<br />
+
+<img src="./assets/celestial.jpg" width="100%" alt="Celestial Horizon" />
 
 <br />
 
