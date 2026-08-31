@@ -1,4 +1,4 @@
-<img src="./assets/celestial.jpg" width="140%" alt="Celestial Horizon" />
+<img src="./assets/celestial.jpg" width="400%" alt="Celestial Horizon" />
 
 i build **agentic systems and production-grade applications**.
 
