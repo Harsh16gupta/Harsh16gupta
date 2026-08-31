@@ -1,8 +1,4 @@
-# hey 👋, i'm harsh
-
-### ai engineer · full-stack builder
-
-<img src="./assets/celestial.jpg" width="100%" alt="Celestial Horizon" />
+<img src="./assets/celestial.jpg" width="10%" alt="Celestial Horizon" />
 
 i build **agentic systems and production-grade applications**.
 
