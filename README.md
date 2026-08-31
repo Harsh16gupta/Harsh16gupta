@@ -1,4 +1,4 @@
-<img src="./assets/celestial.jpg" width="400%" height="30%" alt="Celestial Horizon" />
+<img src="./assets/celestial.jpg" width="100%" height="20%" alt="Celestial Horizon" />
 
 hey 👋, i'm harsh
 
