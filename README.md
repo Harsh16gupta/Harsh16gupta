@@ -10,4 +10,4 @@ i love building software, experimenting with AI, and turning ideas into things t
 
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=Harsh16gupta&style=flat&label=Profile+Views" alt="Profile Views" />
+
