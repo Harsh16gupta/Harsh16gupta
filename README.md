@@ -1,8 +1,6 @@
-<img src="./assets/celestial.jpg" width="100%" height="10%" alt="Celestial Horizon" />
-
 # hey 👋, i'm harsh
 
-[Google Summer of Code '26 @ Joplin](https://summerofcode.withgoogle.com/) · Open Source Contributor | Full Stack Engineer
+[Google Summer of Code '26 @ Joplin](https://summerofcode.withgoogle.com/) · Open Source Contributor | Ai Engineer
 
 i love building software, experimenting with AI, and turning ideas into things that actually work :)
 
