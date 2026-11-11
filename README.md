@@ -22,7 +22,3 @@ i love building software, experimenting with AI, and turning ideas into things t
 1. [**Google Summer of Code '26 (Joplin)**](https://summerofcode.withgoogle.com/): Contributor, May 2026 – Aug 2026 · Remote. Built an AI-powered note categorization plugin using local embeddings and semantic clustering. Handled note chunking, embeddings, caching, and clustering for large note collections, and added an interactive UI to review, rename, reorganize, and apply categories. Improved reliability with automated tests, performance optimizations, and integration with Joplin's native AI features.
 
 2. **GRS Worker**: Full Stack Engineer Intern, Sep 2025 – Nov 2025 · Remote. Architected a full-stack app with Next.js 15, Prisma, and NextAuth, with secured sessions and complex DB relations. Integrated Twilio SMS, QR codes, and Zod validation, cutting data errors by 40%. Built the UI with Radix UI and Framer Motion, and optimized the API with Turbopack and Server Actions.
-
-## Tech
-
-`JavaScript` `TypeScript` `Next.js` `Prisma` `Tailwind CSS` `Radix UI` `Framer Motion` `Turborepo`
