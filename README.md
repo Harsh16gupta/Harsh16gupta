@@ -1,5 +1,3 @@
-# hey 👋, i'm harsh
-
 [Google Summer of Code '26 @ Joplin](https://summerofcode.withgoogle.com/) · Open Source Contributor | Ai Engineer
 
 i love building software, experimenting with AI, and turning ideas into things that actually work :)
