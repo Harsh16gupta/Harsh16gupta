@@ -13,7 +13,7 @@ i love building software, experimenting with AI, and turning ideas into things t
 
 1. [**Joplin**](https://github.com/laurent22/joplin): Authored 12 PRs (11 merged) across the Desktop app, Markdown editor, rendering engine, exports, and localization. Redesigned how the Custom Dictionary is stored and located across platforms, fixing a long-standing issue. Fixed Markdown editor edge cases (whitespace formatting, fenced code block completion, clipboard rendering from preview), added auto-scroll from Go to Anything, improved ABC Sheet Music rendering, enriched Markdown exports, and added customization for internal note link icons.
 
-2. [**AsyncAPI Generator**](https://github.com/asyncapi/generator): Authored 18 merged PRs that substantially expanded test coverage for the JavaScript WebSocket Generator. Improved developer tooling with deterministic Turborepo caching, AsyncAPI v3 docs updates, WebSocket error handling improvements, and CI consistency.
+2. [**AsyncAPI Generator**](https://github.com/asyncapi/generator): Authored 20+ merged PRs that substantially expanded test coverage for the JavaScript WebSocket Generator. Improved developer tooling with deterministic Turborepo caching, AsyncAPI v3 docs updates, WebSocket error handling improvements, and CI consistency.
 
 ### Experience
 
